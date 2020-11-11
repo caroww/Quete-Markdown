@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 
-![icone CV|512x397,20%](https://github.com/caroww/Quete-Markdown/blob/main/icone%20cv)
+![icone CV|20%](https://github.com/caroww/Quete-Markdown/blob/main/icone%20cv)
 
 ## Presentation
 Ergothérapeute de formation, j'ai décidé de me reconvertir dans le développement web.
